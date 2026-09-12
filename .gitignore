@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller intermediates
+build/
+*.toc
+*.pkg
+*.pyz
+xref-*.html
+warn-*.txt
